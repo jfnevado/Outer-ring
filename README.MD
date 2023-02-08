@@ -9,7 +9,7 @@ Outer ring graph was sleeping and sidelining for a long time, and lateralicing b
 
 I was waiting to do a deep research on outer ring so it was the perfect time to do both investigations.
 
-![price-gq](plots\gq-busd.png)
+![price-gq](https://github.com/jfnevado/Outer-ring/blob/master/plots/gq-busd.png)
 ![price-high](plots\high-busd.png)
 
 ## Steps
