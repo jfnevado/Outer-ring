@@ -12,6 +12,8 @@ I was waiting to do a deep research on outer ring so it was the perfect time to 
 ![price-gq](https://github.com/jfnevado/Outer-ring/blob/master/plots/gq-busd.png)
 ![price-high](https://github.com/jfnevado/Outer-ring/blob/master/plots/high-busd.png)
 
+Note: There is one file for each branch of the analysis to enhance readability and make it more accessible for future investigations.
+
 ## Steps
 - Data retrieval through APIs
   - BSC Api
