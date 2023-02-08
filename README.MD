@@ -43,20 +43,20 @@ We can conclude this was pure coincidence, these tokens perform besides being op
 - Group distribution
 - Seed investors
 
-### [Balance and transactions](../blob/master/price-balance-count.ipynb)
+### [Balance and transactions](../master/price-balance-count.ipynb)
 
 With the balance flow, we want to see the relationship between people selling tokens and buying them. And we can observe that at the launch of the token, besides the pump of the token, the inflow was low relative to the token vesting sellers. As a result, it managed to pump due to the low volume of tokens in circulation.
 
 ![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/comparative-price-balance-tx.png)
 
-### [Day activity](../blob/master/day_of_week.ipynb)
+### [Day activity](../master/day_of_week.ipynb)
 
 The activity is quite similar during the whole week but we can see a big positive flow during the sundays.
 
 ![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/tx-by-days-names.png)
 ![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/tx-balance-by-days-names.png)
 
-### [Group distribution](../blob/master/whales.ipynb)
+### [Group distribution](../master/whales.ipynb)
 
 We can see that the majority of the tokens are in the staking, and the pressure from ventures/investors will end soon
 
@@ -64,7 +64,7 @@ We can see that the majority of the tokens are in the staking, and the pressure 
 
 ![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/wallet-type-send-recibe-tx.png)
 
-### [Seed investors](../blob/master/seed-hold.ipynb)
+### [Seed investors](../master/seed-hold.ipynb)
 
 Traking ventures dispensers and claims contract we can observe that only 17.97% of the seed investers sold their tokens, 3.84% of them are steaked and 7.91% even bought more.
 
