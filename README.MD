@@ -1,5 +1,8 @@
 # Outer Ring big wallets overview
 
+## Author
+@jfnevado
+
 ## Description
 
 Outer ring graph was sleeping and sidelining for a long time, and lateralicing but recently it gained a lot of attention, achieving a great performance. At the same time High is another mertaverse project got similar results, resulting in two graph slices with a big correlation.
