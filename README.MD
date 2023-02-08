@@ -1,7 +1,7 @@
 # Outer Ring big wallets overview
 
 ## Author
-@jfnevado
+[@jfnevado](https://github.com/jfnevado)
 
 ## Description
 
@@ -38,25 +38,25 @@ We can conclude this was pure coincidence, these tokens perform besides being op
 
 ## Analysis Conclusion
 ### Points
-- Balance and transactions(#balance and transactions)
+- Balance and transactions
 - Day activity
 - Group distribution
 - Seed investors
 
-### Balance and transactions
+### [Balance and transactions](../blob/master/price-balance-count.ipynb)
 
 With the balance flow, we want to see the relationship between people selling tokens and buying them. And we can observe that at the launch of the token, besides the pump of the token, the inflow was low relative to the token vesting sellers. As a result, it managed to pump due to the low volume of tokens in circulation.
 
 ![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/comparative-price-balance-tx.png)
 
-### Day activity
+### [Day activity](../blob/master/day_of_week.ipynb)
 
 The activity is quite similar during the whole week but we can see a big positive flow during the sundays.
 
 ![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/tx-by-days-names.png)
 ![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/tx-balance-by-days-names.png)
 
-### Group distribution
+### [Group distribution](../blob/master/whales.ipynb)
 
 We can see that the majority of the tokens are in the staking, and the pressure from ventures/investors will end soon
 
@@ -64,13 +64,15 @@ We can see that the majority of the tokens are in the staking, and the pressure 
 
 ![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/wallet-type-send-recibe-tx.png)
 
-### Seed investors
+### [Seed investors](../blob/master/seed-hold.ipynb)
 
-We can observe that only 17.97% of the seed investers sold their tokens, 3.84% of them steaked and 7.91% even bought more.
+Traking ventures dispensers and claims contract we can observe that only 17.97% of the seed investers sold their tokens, 3.84% of them are steaked and 7.91% even bought more.
 
 ## Conclusion
 
-Galactiq Quadrant token is quite healthy.
+During this whole year all proyects estrugled but GQ holders keep trusting it and acumulating, the great performance of the stake speak itself. The sidelining phase ended and with the recent news it's starting to get traction again.
+
+Nothing extrange had been discover and we can assure Galactiq Quadrant token is quite healthy. 
 
 ## Run Locally
 Initialize git
@@ -83,29 +85,35 @@ git init
 Clone the project
 
 ```bash
-git clone https://github.com/**********
+git clone https://github.com/jfnevado/Outer-ring
 ```
 
 enter the project directory
 
 ```bash
-cd **********
+cd Outer-ring
 ```
 
-Create a conda virtual environment and install all the packages from the environment.yml (recommended)
+Create a python virtual environment 
 
 ```bash
-conda env create --prefix <env_name> --file assets/environment.yml
+python -m venv <env_name>
 ```
 
 Activate the conda environment
 
 ```bash
-conda activate <env_name>
+path\<env_name>\Script\activate
+```
+
+Install packages from requirements.txt
+
+```bash
+pip install -r requirements.txt
 ```
 
 List all the packages installed
 
 ```bash
-conda list
+pip freeze
 ```
