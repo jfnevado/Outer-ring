@@ -10,7 +10,7 @@ Outer ring graph was sleeping and sidelining for a long time, and lateralicing b
 I was waiting to do a deep research on outer ring so it was the perfect time to do both investigations.
 
 ![price-gq](https://github.com/jfnevado/Outer-ring/blob/master/plots/gq-busd.png)
-![price-high](plots\high-busd.png)
+![price-high](https://github.com/jfnevado/Outer-ring/blob/master/plots/high-busd.png)
 
 ## Steps
 - Data retrieval through APIs
@@ -24,7 +24,7 @@ I was waiting to do a deep research on outer ring so it was the perfect time to 
 
 Hipothesis: there are alpha groups doing calls of both tokens, making them perform quite close.
 
-![price-comparative](plots\comparative-price.png)
+![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/comparative-price.png)
 
 Results: only 2.12% of the wallets bought both tokens.
 
@@ -47,22 +47,22 @@ We can conclude this was pure coincidence, these tokens perform besides being op
 
 With the balance flow, we want to see the relationship between people selling tokens and buying them. And we can observe that at the launch of the token, besides the pump of the token, the inflow was low relative to the token vesting sellers. As a result, it managed to pump due to the low volume of tokens in circulation.
 
-![price-comparative](plots\comparative-price-balance-tx.png)
+![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/comparative-price-balance-tx.png)
 
 ### Day activity
 
 The activity is quite similar during the whole week but we can see a big positive flow during the sundays.
 
-![price-comparative](plots\tx-by-days-names.png)
-![price-comparative](plots\tx-balance-by-days-names.png)
+![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/tx-by-days-names.png)
+![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/tx-balance-by-days-names.png)
 
 ### Group distribution
 
 We can see that the majority of the tokens are in the staking, and the pressure from ventures/investors will end soon
 
-![price-comparative](plots\wallet-type-balance.png)
+![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/wallet-type-balance.png)
 
-![price-comparative](plots\wallet-type-send-recibe-tx.png)
+![price-comparative](https://github.com/jfnevado/Outer-ring/blob/master/plots/wallet-type-send-recibe-tx.png)
 
 ### Seed investors
 
