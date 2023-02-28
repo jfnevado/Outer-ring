@@ -5,9 +5,9 @@
 
 ## Description
 
-Outer ring graph was sleeping and sidelining for a long time, and lateralicing but recently it gained a lot of attention, achieving a great performance. At the same time High is another mertaverse project got similar results, resulting in two graph slices with a big correlation.
+There are rumors that alpha calls for the High and QC tokens were being given in a community. Both tokens belong to similar projects (metaverse gamefi) and have had a similar performance in recent days, contrary to the general market movement. These are more than enough reasons to conduct an investigation and determine if the rumors are true. 
 
-I was waiting to do a deep research on outer ring so it was the perfect time to do both investigations.
+Additionally, GQ is a token that I have been wanting to investigate more deeply. After 1 year with the project and the vesting about to end, it was the perfect time to check the status of it and study the patterns of its holders.
 
 ![price-gq](https://github.com/jfnevado/Outer-ring/blob/master/plots/gq-busd.png)
 ![price-high](https://github.com/jfnevado/Outer-ring/blob/master/plots/high-busd.png)
